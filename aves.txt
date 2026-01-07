@@ -1,1 +1,6 @@
-ping
+pinguino
+loro 
+aguila
+peuco
+gallina
+papagayo
